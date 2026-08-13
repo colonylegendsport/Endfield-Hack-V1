@@ -4,9 +4,8 @@
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.1/Endfield.Mod-v1.1.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.1/Endfield.Mod-v1.1.zip)
-[![License: MIT](https://img.shields.io/badge/License-Apache-2.0-blue?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![Stars](https://img.shields.io/github/stars/colonylegendsport/Endfield-trainer?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/stargazers)
-
+[![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
+[![GitHub Stars](https://img.shields.io/github/stars/colonylegendsport/Endfield-trainer?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/stargazers)
 
 A powerful trainer tool for Arknights: Endfield with clean in-game overlay
 
